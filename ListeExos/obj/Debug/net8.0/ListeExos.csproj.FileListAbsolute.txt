@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\IPI\.NET\ListeExos\ListeExos\bin\Debug\net8.0\ListeExos.exe
+C:\Users\DELL\Desktop\IPI\.NET\ListeExos\ListeExos\bin\Debug\net8.0\ListeExos.deps.json
+C:\Users\DELL\Desktop\IPI\.NET\ListeExos\ListeExos\bin\Debug\net8.0\ListeExos.runtimeconfig.json
+C:\Users\DELL\Desktop\IPI\.NET\ListeExos\ListeExos\bin\Debug\net8.0\ListeExos.dll
+C:\Users\DELL\Desktop\IPI\.NET\ListeExos\ListeExos\bin\Debug\net8.0\ListeExos.pdb
+C:\Users\DELL\Desktop\IPI\.NET\ListeExos\ListeExos\obj\Debug\net8.0\ListeExos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\IPI\.NET\ListeExos\ListeExos\obj\Debug\net8.0\ListeExos.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\IPI\.NET\ListeExos\ListeExos\obj\Debug\net8.0\ListeExos.AssemblyInfo.cs
+C:\Users\DELL\Desktop\IPI\.NET\ListeExos\ListeExos\obj\Debug\net8.0\ListeExos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\IPI\.NET\ListeExos\ListeExos\obj\Debug\net8.0\ListeExos.dll
+C:\Users\DELL\Desktop\IPI\.NET\ListeExos\ListeExos\obj\Debug\net8.0\refint\ListeExos.dll
+C:\Users\DELL\Desktop\IPI\.NET\ListeExos\ListeExos\obj\Debug\net8.0\ListeExos.pdb
+C:\Users\DELL\Desktop\IPI\.NET\ListeExos\ListeExos\obj\Debug\net8.0\ListeExos.genruntimeconfig.cache
+C:\Users\DELL\Desktop\IPI\.NET\ListeExos\ListeExos\obj\Debug\net8.0\ref\ListeExos.dll
