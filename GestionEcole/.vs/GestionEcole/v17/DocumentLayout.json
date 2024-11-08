@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\IPI\\.NET\\GestionEcole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63796E40-B032-4A15-9A58-0704A4008840}|GestionEcole\\GestionEcole.csproj|c:\\users\\dell\\desktop\\ipi\\.net\\gestionecole\\gestionecole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63796E40-B032-4A15-9A58-0704A4008840}|GestionEcole\\GestionEcole.csproj|solutionrelative:gestionecole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63796E40-B032-4A15-9A58-0704A4008840}|GestionEcole\\GestionEcole.csproj|c:\\users\\dell\\desktop\\ipi\\.net\\gestionecole\\gestionecole\\professeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63796E40-B032-4A15-9A58-0704A4008840}|GestionEcole\\GestionEcole.csproj|solutionrelative:gestionecole\\professeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63796E40-B032-4A15-9A58-0704A4008840}|GestionEcole\\GestionEcole.csproj|c:\\users\\dell\\desktop\\ipi\\.net\\gestionecole\\gestionecole\\ecole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63796E40-B032-4A15-9A58-0704A4008840}|GestionEcole\\GestionEcole.csproj|solutionrelative:gestionecole\\ecole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63796E40-B032-4A15-9A58-0704A4008840}|GestionEcole\\GestionEcole.csproj|c:\\users\\dell\\desktop\\ipi\\.net\\gestionecole\\gestionecole\\eleve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63796E40-B032-4A15-9A58-0704A4008840}|GestionEcole\\GestionEcole.csproj|solutionrelative:gestionecole\\eleve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63796E40-B032-4A15-9A58-0704A4008840}|GestionEcole\\GestionEcole.csproj|c:\\users\\dell\\desktop\\ipi\\.net\\gestionecole\\gestionecole\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63796E40-B032-4A15-9A58-0704A4008840}|GestionEcole\\GestionEcole.csproj|solutionrelative:gestionecole\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\IPI\\.NET\\GestionEcole\\GestionEcole\\Personne.cs",
+              "RelativeDocumentMoniker": "GestionEcole\\Personne.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\IPI\\.NET\\GestionEcole\\GestionEcole\\Personne.cs",
+              "RelativeToolTip": "GestionEcole\\Personne.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwCgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:19:23.426Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ecole.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\IPI\\.NET\\GestionEcole\\GestionEcole\\Ecole.cs",
+              "RelativeDocumentMoniker": "GestionEcole\\Ecole.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\IPI\\.NET\\GestionEcole\\GestionEcole\\Ecole.cs",
+              "RelativeToolTip": "GestionEcole\\Ecole.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwCgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:34:26.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Professeur.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\IPI\\.NET\\GestionEcole\\GestionEcole\\Professeur.cs",
+              "RelativeDocumentMoniker": "GestionEcole\\Professeur.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\IPI\\.NET\\GestionEcole\\GestionEcole\\Professeur.cs",
+              "RelativeToolTip": "GestionEcole\\Professeur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:14:14.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\IPI\\.NET\\GestionEcole\\GestionEcole\\Program.cs",
+              "RelativeDocumentMoniker": "GestionEcole\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\IPI\\.NET\\GestionEcole\\GestionEcole\\Program.cs",
+              "RelativeToolTip": "GestionEcole\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:08:24.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Eleve.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\IPI\\.NET\\GestionEcole\\GestionEcole\\Eleve.cs",
+              "RelativeDocumentMoniker": "GestionEcole\\Eleve.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\IPI\\.NET\\GestionEcole\\GestionEcole\\Eleve.cs",
+              "RelativeToolTip": "GestionEcole\\Eleve.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwCMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:40:47.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

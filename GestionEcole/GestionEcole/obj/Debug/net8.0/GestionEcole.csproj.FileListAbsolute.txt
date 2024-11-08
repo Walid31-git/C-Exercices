@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\IPI\.NET\GestionEcole\GestionEcole\bin\Debug\net8.0\GestionEcole.exe
+C:\Users\DELL\Desktop\IPI\.NET\GestionEcole\GestionEcole\bin\Debug\net8.0\GestionEcole.deps.json
+C:\Users\DELL\Desktop\IPI\.NET\GestionEcole\GestionEcole\bin\Debug\net8.0\GestionEcole.runtimeconfig.json
+C:\Users\DELL\Desktop\IPI\.NET\GestionEcole\GestionEcole\bin\Debug\net8.0\GestionEcole.dll
+C:\Users\DELL\Desktop\IPI\.NET\GestionEcole\GestionEcole\bin\Debug\net8.0\GestionEcole.pdb
+C:\Users\DELL\Desktop\IPI\.NET\GestionEcole\GestionEcole\obj\Debug\net8.0\GestionEcole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\IPI\.NET\GestionEcole\GestionEcole\obj\Debug\net8.0\GestionEcole.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\IPI\.NET\GestionEcole\GestionEcole\obj\Debug\net8.0\GestionEcole.AssemblyInfo.cs
+C:\Users\DELL\Desktop\IPI\.NET\GestionEcole\GestionEcole\obj\Debug\net8.0\GestionEcole.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\IPI\.NET\GestionEcole\GestionEcole\obj\Debug\net8.0\GestionEcole.dll
+C:\Users\DELL\Desktop\IPI\.NET\GestionEcole\GestionEcole\obj\Debug\net8.0\refint\GestionEcole.dll
+C:\Users\DELL\Desktop\IPI\.NET\GestionEcole\GestionEcole\obj\Debug\net8.0\GestionEcole.pdb
+C:\Users\DELL\Desktop\IPI\.NET\GestionEcole\GestionEcole\obj\Debug\net8.0\GestionEcole.genruntimeconfig.cache
+C:\Users\DELL\Desktop\IPI\.NET\GestionEcole\GestionEcole\obj\Debug\net8.0\ref\GestionEcole.dll
